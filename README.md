@@ -31,8 +31,7 @@ pip install -r requirements.txt
 - **Scikit-Learn**: Used for polynomial regression, model evaluation, and train-test splitting.
 - **Matplotlib & Seaborn**: Data visualization libraries, used for generating plots such as confidence intervals and performance graphs.
 - **Jupyter Notebook**: Provides an interactive environment for experimentation and documentation.
-
----
+```
 
 ## 🔍 Methodology
 
